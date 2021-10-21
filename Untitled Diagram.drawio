@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T02:48:48.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="AseA4ODGugC3ZAWjorqN" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T02:51:12.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="A5UGnQ5b82GSiofq-fxM" version="15.5.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,6 +55,14 @@
         <mxCell id="SCmzIBsulS7Z_mzTHgpX-18" value="Navigation" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x1IL4fQbw9wLWjzibtvg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SCmzIBsulS7Z_mzTHgpX-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1IL4fQbw9wLWjzibtvg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SCmzIBsulS7Z_mzTHgpX-20" target="x1IL4fQbw9wLWjzibtvg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SCmzIBsulS7Z_mzTHgpX-20" value="Character Creation" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -88,8 +96,24 @@
         <mxCell id="x1IL4fQbw9wLWjzibtvg-5" value="Video" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x1IL4fQbw9wLWjzibtvg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x1IL4fQbw9wLWjzibtvg-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1IL4fQbw9wLWjzibtvg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x1IL4fQbw9wLWjzibtvg-7" target="x1IL4fQbw9wLWjzibtvg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x1IL4fQbw9wLWjzibtvg-7" value="Netflix Article" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1IL4fQbw9wLWjzibtvg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x1IL4fQbw9wLWjzibtvg-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1IL4fQbw9wLWjzibtvg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x1IL4fQbw9wLWjzibtvg-8" target="x1IL4fQbw9wLWjzibtvg-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x1IL4fQbw9wLWjzibtvg-8" value="Celebrities" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
